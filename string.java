@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.stream.*;
 
 
-public class String_Methods
+public class String
 {
 	
 		public static List<String> search(List<String> list)
