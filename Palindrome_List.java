@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.function.Predicate;
 
 
-public class Palindrome_List 
+public class Palindrome_List
 {
 		public static void main(String[] args) 
 		{
