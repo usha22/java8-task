@@ -3,7 +3,7 @@ import java.util.*;
 import java.util.stream.IntStream; 
 
 
-public class Array_integer_list 
+public class Array 
 {
 	
 		 public static void main(String[] args) 
